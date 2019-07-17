@@ -1,0 +1,24 @@
+h1{
+    color: darkslateblue;
+    font-size:30px;
+    text-align:center;
+    text-decoration:underline;
+    width:400px;
+}
+p{
+    color: plum;
+    font-weight:300;
+    font-size: 20px;
+    width: 400px;
+    
+}
+.heading{
+    border: 2px solid darkorchid;
+    text-align: center;
+    
+}
+.time{
+    border:2px solid rgb(245, 140, 227);
+    text-align: center;
+
+}
